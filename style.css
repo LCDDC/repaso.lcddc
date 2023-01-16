@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#span1 {
+    color: blue;
+}
+#span2 {
+    padding: 15px;
+    background-color: grey;
+}
+#span3 {
+    padding: 15px;
+    background-color: darkgrey;
+}
+#div {
+    color: blue;
+}
+#div2 {
+    padding: 15px;
+    background-color: grey;
+}
+#div3 {
+    padding: 15px;
+    background-color: darkgrey;
+}
+#im1 {
+    border-style: ridge;
+}
+#bt1 {
+    color: blue;
+}
+#button1 {
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+}
+#xx1 {
+    color: blue;
+}
